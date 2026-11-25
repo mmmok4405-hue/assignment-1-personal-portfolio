@@ -1,0 +1,112 @@
+div#center {
+    text-align: center;
+    background-color: hsl(213, 75%, 43%);
+    color: white;
+    padding: 10px;
+}
+
+div#center a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px;
+}
+
+#about2 {
+    width: 20%;
+    display: inline;
+
+}
+
+#para {
+    display: inline-block;
+    width: 78%;
+    padding: 10px;
+
+}
+
+.link {
+    display: block;
+    width: 20%;
+    background-color: rgb(0, 89, 255);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.pra {
+    display: inline-block;
+    color: blue;
+}
+
+.html {
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+}
+
+.css {
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+}
+
+.java {
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+}
+
+.rect {
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+}
+
+.main {
+    padding: 10px;
+    display: inline-block;
+}
+
+.h4 {
+    display: inline-block;
+    padding: 10px;
+}
+
+.sor {
+    color: blue;
+}
+
+.imag {
+    display: inline-block;
+    padding: 10px;
+}
+
+#experience2 {
+    display: inline-block;
+    padding: 10px;
+}
+
+.mok {
+    color: blue;
+
+}
+
+div#contact {
+    background-color: hsl(213, 75%, 43%);
+    padding: 20px;
+}
+
+.link2 a {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.finish {
+    color: white;
+    background-color: rgb(11, 11, 123);
+    padding: 20px;
+    text-align: center;
+}
